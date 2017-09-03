@@ -3,6 +3,6 @@ Tada je pogledao preko ramena i video starog druga kako panici:
 
 "Moramo odmah da krenemo! Za petama su mi!"
 
-["Darko!!""](prepozaneje/prepoznaje.md)
+["Darko!!""](prepoznaje/prepoznaje.md)
 
 ["Izvinite da li se mi poznajemo"](neprepoznaje/neprepoznaje.md)
